@@ -5,11 +5,6 @@ NookTheme is a free and open source [Pterodactyl theme](https://pterodactyl.io) 
 
 <details>
 <summary>View Screnshots</summary>
-
-![Image](https://i.imgur.com/CNxF3iT.png)
-![Image](https://i.imgur.com/IflRtEX.png)
-![Image](https://i.imgur.com/vNLK5jP.png)
-![Image](https://i.imgur.com/dnxV2CS.png)
 </details>
 
 ## Installation
