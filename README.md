@@ -7,7 +7,7 @@ A Luxury Hosting Theme is a free and open source [Pterodactyl theme](https://pte
 
 ## Installation
 
-This will update your panel to the latest version of NookTheme panel is based. <br>
+This will update your panel to the latest version of Luxury Theme panel is based. <br>
 You can see the version in the current branch name.
 ### Enter Maintenance Mode
 
@@ -28,7 +28,7 @@ the release archive for the most recent version of Pterodactyl, save it in the c
 unpack the archive into your current folder.
 
 ```bash
-curl -L https://github.com/Nookure/NookTheme/releases/latest/download/panel.tar.gz | tar -xzv
+curl -L https://github.com/AgentH14/Luxury-Theme/releases/latest/download/panel.tar.gz | tar -xzv
 ```
 
 Once all of the files are downloaded we need to set the correct permissions on the cache and storage directories to avoid
