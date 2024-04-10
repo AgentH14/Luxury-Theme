@@ -1,7 +1,5 @@
 # Nook Theme
-NookTheme is a free and open source [Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
-
-![Image](https://i.imgur.com/AFjHGBr.png)
+Luxury Hosting Theme is a free and open source [Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
 
 <details>
 <summary>View Screnshots</summary>
@@ -107,7 +105,6 @@ php artisan up
 * [Panel Documentation](https://pterodactyl.io/panel/1.0/getting_started.html)
 * [Wings Documentation](https://pterodactyl.io/wings/1.0/installing.html)
 * [Community Guides](https://pterodactyl.io/community/about.html)
-* Or, get additional help [via Discord](https://discord.nookure.com/)
 
 ## License
 
@@ -116,5 +113,3 @@ Pterodactyl® Copyright © 2015 - 2023 Dane Everitt and contributors.
 > Nookure is not affiliated with Pterodactyl® Panel or its contributors.
 
 Pterodactyl code released under the [MIT License](./LICENSE.md).
-
-NookTheme code  edits released under the [GNU GPLv3 License](./NookLicense.md).
