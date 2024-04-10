@@ -28,7 +28,7 @@ the release archive for the most recent version of Pterodactyl, save it in the c
 unpack the archive into your current folder.
 
 ```bash
-curl -L https://github.com/AgentH14/Luxury-Theme/releases/latest/download/panel.tar.gz | tar -xzv
+curl -L https://github.com/AgentH14/Luxury-Theme/releases/download/v1.0/Luxury-Theme-v1.tar.gz | tar -xzv
 ```
 
 Once all of the files are downloaded we need to set the correct permissions on the cache and storage directories to avoid
