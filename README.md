@@ -1,5 +1,5 @@
-# Nook Theme
-Luxury Hosting Theme is a free and open source [Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
+# Luxury Theme
+A Luxury Hosting Theme is a free and open source [Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
 
 <details>
 <summary>View Screnshots</summary>
